@@ -24,15 +24,15 @@ Practical Skills
 •	Business Proposal Writing
 
 ㅡ
-**Soft Skills**	 
-•	Proficient in Computer Programming \n
-•	Proficient in Database Administration and Management \n
-•	Proficient in Graphic Design and Graphical Data Representations
-•	Proficient in the use of Microsoft Excel & Access in package creation.
-•	Dedicated to Duty, Self-Motivated and Innovative	•	Experienced in Team Management
-•	Team player and excellent Human Relations
-•	Interpersonal skills
-•	Strong writing and oral communication
-•	Flexible and adaptable to change 
-•	Able to work independently as well as in team
+**Soft Skills** <br/>
+•	Proficient in Computer Programming <br/>
+•	Proficient in Database Administration and Management <br/>
+•	Proficient in Graphic Design and Graphical Data Representations <br/>
+•	Proficient in the use of Microsoft Excel & Access in package creation. <br/>
+•	Dedicated to Duty, Self-Motivated and Innovative	•	Experienced in Team Management <br/>
+•	Team player and excellent Human Relations<br/>
+•	Interpersonal skills <br/>
+•	Strong writing and oral communication <br/>
+•	Flexible and adaptable to change <br/>
+•	Able to work independently as well as in team <br/>
 
