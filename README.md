@@ -9,7 +9,7 @@ I am a Self-Motivated and Versatile Ghanaian academic professionally trained tea
 To pursue a challenging career that would provide a personal growth and opportunity to participate in the development of an institution or organization where I find myself.  To work in an environment that supports innovation and creativity by self-motivated employee.  And also get the opportunities to prove my abilities by accepting challenges, fulfilling organizational goal and climb the ladder through continuous learning and commitment.
 
 ㅡ
-**PRACTICAL SKILLS**	 <br/>
+ **PRACTICAL SKILLS**	 <br/>
 •	Software Development (C#, VB.NET)	<br/>
 •	Photography / Videography <br/>
 •	Web Development (ASP.NET, PHP, HTML, CSS, JavaScript)	 <br/>
@@ -20,7 +20,7 @@ To pursue a challenging career that would provide a personal growth and opportun
 •	Advanced Excel Technologies <br/>
 •	SEO Technologies <br/>
 •	CCTV Installations and Management <br/>
-•	Business Proposal Writing <br/>
+•	Business Proposal Writing <br/></p>
 
 ㅡ
 **SOFT SKILLS** <br/>
@@ -35,6 +35,6 @@ To pursue a challenging career that would provide a personal growth and opportun
 •	Flexible and adaptable to change <br/>
 •	Able to work independently as well as in team <br/>
 
-TECHNOLOGIES
-![Visual-Studio-Logo](https://user-images.githubusercontent.com/75395326/197693394-014a9a06-d5c6-4e17-aa09-548381db48c9.png)
+TECHNOLOGIES <br/> <br/>
+<img src="https://user-images.githubusercontent.com/75395326/197693922-219fe7f7-c5a6-420a-a350-236ea038dcc9.png" width="70px">  <img src="https://user-images.githubusercontent.com/75395326/197696791-a50f58d0-2f38-411b-bc5d-8c3f717a0545.png" width="60px">  <img src="https://user-images.githubusercontent.com/75395326/197697444-d6d9ff31-a496-4324-802f-133093c30613.png" width="50px"> 
 
