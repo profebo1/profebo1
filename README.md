@@ -25,8 +25,8 @@ Practical Skills
 
 ㅡ
 **Soft Skills**	 
-•	Proficient in Computer Programming
-•	Proficient in Database Administration and Management
+•	Proficient in Computer Programming \n
+•	Proficient in Database Administration and Management \n
 •	Proficient in Graphic Design and Graphical Data Representations
 •	Proficient in the use of Microsoft Excel & Access in package creation.
 •	Dedicated to Duty, Self-Motivated and Innovative	•	Experienced in Team Management
