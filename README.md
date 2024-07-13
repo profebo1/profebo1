@@ -20,14 +20,14 @@
 ---
 
 ## Website Projects
-- [Kemist Group](https://kemistgroup.com)
+- [Kemist Group of Companies](https://kemistgroup.com)
 - [Sascon Ltd](https://sasconltd.com)
 - [Eco Restoration Ghana](https://eco-restorationghana.org)
 - [Abeb Infotech Solutions](https://abebinfotechsolutions.net)
 - [Kemist Farms](https://kemistfarms.com)
 - [ILAPI](https://ilapi.org)
-- [Sethoo Education](https://sethoo.edu.gh)
-- [Ak Centre](https://ak-centre.com)
+- [Sethoo (Aller-Aller) Centre of Studies](https://sethoo.edu.gh)
+- [AK Centre](https://ak-centre.com)
 - [Xoese Ghana](https://xoeseghana.org)
 - [GEOKORANG Constructions Limited](https://geokorangconstructions.com/)
 
