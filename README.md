@@ -29,6 +29,7 @@
 - [Sethoo Education](https://sethoo.edu.gh)
 - [Ak Centre](https://ak-centre.com)
 - [Xoese Ghana](https://xoeseghana.org)
+- [GEOKORANG Constructions Limited](https://geokorangconstructions.com/)
 
 ---
 
